@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there friends👋
 
 <!--
 **7malikk/7malikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
