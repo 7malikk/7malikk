@@ -1,20 +1,18 @@
-# Hi there👋 I'm Malik
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning JavaScript && ReactJS.
-- 👀 I’m interested in web and software development.
-- 👯 I’m looking to collaborate on web development projects. 
-- 📫 How to reach me: Send me an email: mailolatunbosunola@gmail.com or [DM](https://twitter.com/_malikktweets)
-- ⚡ Fun fact: I love MUSIC
-<!--
-**7malikk/7malikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Malik</h1>
+<h2 align="center">An avid learner</h3>
 
-Here are some ideas to get you started:
-👋 Hi, I’m @Ojerry
+- 🌱 I’m currently learning **JavaScript && ReactJS**
 
-🌱 I’m currently learning languages for web development and also for making mobile apps.
-💞️ I’m looking to collaborate on web building projects and any android development project.
-📫
+- 👯 I’m looking to collaborate on **web and software development projects.**
 
-<!-- 🔭 I’m currently working on consuming a RESTful API with ReactJS
- ...
--->
+- 📫 Reach me via [Email](mailto:mailolatunbosun@gmail.com)
+
+- ⚡ Fun fact **I love music**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_malikktweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_malikktweets" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
