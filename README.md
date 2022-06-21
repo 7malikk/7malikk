@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript && ReactJS.
 - 👀 I’m interested in web and software development.
 - 👯 I’m looking to collaborate on web development projects. 
-- 📫 How to reach me: Send me an [email](mailolatunbosunola@gmail.com) or [DM](https://twitter.com/_malikktweets)
+- 📫 How to reach me: Send me an email: mailolatunbosunola@gmail.com or [DM](https://twitter.com/_malikktweets)
 - ⚡ Fun fact: I love MUSIC
 <!--
 **7malikk/7malikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
