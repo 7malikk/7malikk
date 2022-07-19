@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malik</h1>
-<h2 align="center">An avid learner</h3>
+<h2 align="center">Solving problems with 👨🏿‍💻</h3>
 
 - 🌱 I’m currently learning **JavaScript && ReactJS**
 
