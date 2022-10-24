@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **web and software development projects.**
 
-- 📫 Reach me via [Email](mailto:mailolatunbosun@gmail.com)
+- 📫 Reach me via [Email](mailto:7malikk@gmail.com)
 
 - ⚡ Fun fact **I love music**
 
