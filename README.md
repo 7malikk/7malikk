@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malik</h1>
 <h2 align="center">Solving problems with 👨🏿‍💻</h3>
 
-- 🌱 I’m currently learning **JavaScript && ReactJS**
+- 🌱 I’m currently learning **ReactJS && NextJS**
 
 - 👯 I’m looking to collaborate on **web and software development projects.**
 
