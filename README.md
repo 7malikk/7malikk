@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 - 🔧 I build APIs, services and full applications — mostly **Node.js, NestJS, TypeScript and PostgreSQL**, with some **Laravel**, **React** and **React Native**
-- 🚀 Currently building **[Celvion](https://celvion.com.ng)** — smart infrastructure for Nigeria and Ghana
+- 🚀 Currently building **[Avela](https://avela.com.ng)** — smart infrastructure for Nigeria and Ghana
 - 📁 Most of my recent work lives in private organisation repos. What's here is personal, and some of it is old
 - 📫 Reach me via [Email](mailto:mailolatunbosunola@gmail.com) or [LinkedIn](https://www.linkedin.com/in/-malikk/)
 - ⚡ Fun fact **I love music**
