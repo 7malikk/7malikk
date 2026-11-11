@@ -4,7 +4,8 @@
 - 🔧 I build APIs, services and full applications — mostly **Node.js, NestJS, TypeScript and PostgreSQL**, with some **Laravel**, **React** and **React Native**
 - 🚀 Currently building **[Avela](https://avela.com.ng)** — smart infrastructure for Nigeria and Ghana
 - 📁 Most of my recent work lives in private organisation repos. What's here is personal, and some of it is old
-- 📫 Reach me via [Email](mailto:mailolatunbosunola@gmail.com) or [LinkedIn](https://www.linkedin.com/in/-malikk/)
+- 🌐 Portfolio: **[malikk.dev](https://malikk.dev)**
+- 📫 Reach me via [Email](mailto:hello@malikk.dev) or [LinkedIn](https://www.linkedin.com/in/-malikk/)
 - ⚡ Fun fact **I love music**
 
 <h3 align="left">Languages and Tools:</h3>
